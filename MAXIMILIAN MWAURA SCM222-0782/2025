@@ -1,0 +1,92 @@
+NAME;MAXIMILLIAN MWAURA CHEGE
+REG;SCM222-0782/2025
+GROUP B
+B. FINANCIAL ENGINEERING
+
+
+IT FOR STATISTICS SUMMARY
+
+TOPIC 1  : INTRODUCTION TO IT AND COMPUTING
+
+IT is the use of computers, networks, softwares and systems to gather, store, analyze, model and communicate data.
+Raw facts- Statistics
+Sample- part of a statistics that represent a certain class
+Data - raw facts
+Software- a set of instructions that tell a computer what to do and how to do it.
+Information-  data that has been processed or organized so it makes sense
+
+APPLICATION OF IT
+
+Processing of very huge data 
+Analyzing sophisticated data
+Enhances accuracy on huge data sets
+Used in storing of very huge data
+Communicates results for presentation
+Redundancy issues on networks
+
+ROLE OF IT IN THE SOCIETY
+
+AGRICULTURE
+Track crop growth , weather and soil health
+
+EDUCATION
+Used in learning management systems
+
+HEALTHCARE
+Storing of patient records
+
+BANKING
+Used in accounting softwares 
+
+SECURITY
+Used in surveillance softwares 
+
+TRANSPORT
+Used in GPS software,ride hailing apps and controlling of traffic lights
+DATA VS INFORMATION
+Key Difference
+Data is the input; info is the output.
+Data is not organized; info is well organized
+Data alone can’t help make decisions, but information can.
+Data becomes information after processing 
+
+A computer is an electronic device that can be programmed to manipulate symbols
+Computers come in different types and shapes
+Supercomputers – huge, very powerful, used for research and big calculations.
+Mainframes – large, used by companies for big data processing.
+Minicomputers – medium size, used in smaller businesses or labs.
+Microcomputers/PCs – small, personal computers for everyday use
+Power: Depends on CPU speed, number of cores, RAM size, and storage type. More power = faster processing and ability to handle bigger tasks.
+Characteristics of a Computer:
+Speed – can do tasks very fast.
+Accuracy – gives correct results most of the time.
+Automation – works automatically once instructions are given.
+Storage – can save huge amounts of data.
+Versatility – can do many different types of tasks.
+Connectivity – can connect to other computers or networks to share data.
+Diligence – doesn’t get tired or bored, works continuously.
+TOPIC 2 : FUNDAMENTALS OF A COMPUTER OPERATIONS
+Intro: Computers work by following instructions really fast, and understanding the CPU and its parts helps know how tasks are done
+CPU – Central Processing Unit: the brain of the computer, does all the thinking and work.
+ALU (Arithmetic Logic Unit): does maths and logic like adding numbers or comparing values. e.g., calculates totals in Excel or checks answers in a quiz app.
+Control Unit: directs data flow between CPU, memory, n devices. e.g., tells the printer when to print or loads the next level in a game.
+Registers: small, super-fast memory inside CPU for temp data. e.g., storing a number b4 adding it to another.
+System Clock: keeps operations in sync, sets pace of processing. Higher clock speed = programs run faster.
+Machine Cycle: CPU works in steps: fetch → decode → execute → store. e.g., typing in Excel goes through these steps automatically.
+Parallel Processing: using more than one core or processor at same time to finish tasks faster. e.g., running browser, Excel, n a game at same time without slowing down.
+Performance: depends on CPU speed, number of cores, n memory size. affects how fast tasks like analyzing big datasets in Excel or Python are completed.
+TOPIC 3 :COMPUTER HARDWARE 1 (INPUT AND OUTPUT DEVICES)
+Intro: Input and output devices r how we interact with computers. They let us give info to the computer and get results back.
+Input Devices: ways to put info into the computer. e.g., keyboard, mouse, scanner, microphone, camera.
+keyboards – type letters, numbers, commands
+mice – move cursor, select items
+scanners – convert paper docs to digital files
+microphone/camera – record audio/video
+Output Devices: ways computers give info back. e.g., monitor, printer, speaker, projector.
+monitors – display images/text
+printers – make paper copies
+speakers – play sounds/music
+projectors – show presentations or videos
+High-throughput devices: devices that handle lots of data fast. e.g., high-speed scanners in labs or cameras for experiments.
+ Performance: how fast and correct these devices work. measured by speed, accuracy, and reliability. e.g., printing a big report, scanning multiple pages, or playing a video smoothly.
+
